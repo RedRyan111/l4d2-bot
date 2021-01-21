@@ -4,7 +4,7 @@
 ### Image screenshot taken using the python library D3adshot while playing the game:
 ![alt text](https://github.com/RedRyan111/l4d2-bot/blob/main/ReadMeFiles/BeforeObjectDetection.png)
 
-### Image screenshot after yolo applies object detection:
+### Image screenshot after YoloV5 applies object detection:
 ![alt text](https://github.com/RedRyan111/l4d2-bot/blob/main/ReadMeFiles/AfterObjectDetection.png)
 
 ### Warning: This will take over your mouth and left mouse button.
